@@ -36,7 +36,7 @@
     - 解压下载的文件并运行游戏即可。
 
 ## 游戏演示
-<img alt="演示Demo" src="https://cdn.jsdelivr.net/gh/H-Bole/Picture-home/Happy_Poker/Happy_Poker.gif" width="900" />
+<img alt="演示Demo" src="https://cdn.jsdelivr.net/gh/H-Bole/Picture-home/Happy_Poker/Happy_Poker.gif" />
 
 ## 待做板块
 
